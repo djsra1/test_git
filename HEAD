@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 9d86f4ea1dc573beb7abd43e406fbfa897d2bb8f djsra1 <djsra@yandex.ru> 1657726845 +0300	commit (initial): begin work in VGUIT
+9d86f4ea1dc573beb7abd43e406fbfa897d2bb8f 0000000000000000000000000000000000000000 djsra1 <djsra@yandex.ru> 1657727944 +0300	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 9d86f4ea1dc573beb7abd43e406fbfa897d2bb8f djsra1 <djsra@yandex.ru> 1657727944 +0300	Branch: renamed refs/heads/master to refs/heads/main
+9d86f4ea1dc573beb7abd43e406fbfa897d2bb8f 0000000000000000000000000000000000000000 djsra1 <djsra@yandex.ru> 1657728193 +0300	Branch: renamed refs/heads/main to refs/heads/main
+9d86f4ea1dc573beb7abd43e406fbfa897d2bb8f 9d86f4ea1dc573beb7abd43e406fbfa897d2bb8f djsra1 <djsra@yandex.ru> 1657728193 +0300	Branch: renamed refs/heads/main to refs/heads/main
+9d86f4ea1dc573beb7abd43e406fbfa897d2bb8f 810c99bd75623560565e4e6dce28a15323bce769 djsra1 <djsra@yandex.ru> 1657729921 +0300	commit: update_form16
+810c99bd75623560565e4e6dce28a15323bce769 10a8b4de84e137b34657a5b4e40ae94d71c4a4a4 djsra1 <djsra@yandex.ru> 1659686784 +0300	commit: обновил ф16
+10a8b4de84e137b34657a5b4e40ae94d71c4a4a4 0000000000000000000000000000000000000000 djsra1 <djsra@yandex.ru> 1668785219 +0300	Branch: renamed refs/heads/main to refs/heads/main
+10a8b4de84e137b34657a5b4e40ae94d71c4a4a4 10a8b4de84e137b34657a5b4e40ae94d71c4a4a4 djsra1 <djsra@yandex.ru> 1668785219 +0300	Branch: renamed refs/heads/main to refs/heads/main
+10a8b4de84e137b34657a5b4e40ae94d71c4a4a4 9fe7da26cff0069d9997d05f442916c3b0dc2f24 djsra1 <djsra@yandex.ru> 1668785803 +0300	commit: 112022
+9fe7da26cff0069d9997d05f442916c3b0dc2f24 0000000000000000000000000000000000000000 djsra1 <djsra@yandex.ru> 1668785829 +0300	Branch: renamed refs/heads/main to refs/heads/main
+9fe7da26cff0069d9997d05f442916c3b0dc2f24 9fe7da26cff0069d9997d05f442916c3b0dc2f24 djsra1 <djsra@yandex.ru> 1668785829 +0300	Branch: renamed refs/heads/main to refs/heads/main
+9fe7da26cff0069d9997d05f442916c3b0dc2f24 89987823128f693b6abb989d6636bfa4552f019f djsra1 <djsra@yandex.ru> 1668786067 +0300	commit: форма16
+89987823128f693b6abb989d6636bfa4552f019f 1ab4e02927a61cc4833faf7c139ed8b7a73a5407 djsra1 <djsra@yandex.ru> 1669023684 +0300	pull: Fast-forward
